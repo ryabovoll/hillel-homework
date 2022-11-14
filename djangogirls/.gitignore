@@ -1,0 +1,23 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+./
+../flask_app/.idea/
+../flask_app/__pycache__/
+../flask_app/venv/
+../flask_app/
+# Python
+flask_app/__pycache__/*
+
+test.txt
+
+# Env
+.env
+myvenv/
+venv/
+
+.idea
